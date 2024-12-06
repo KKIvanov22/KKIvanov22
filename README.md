@@ -35,7 +35,7 @@ Hi there! I'm Kaloyan, a passionate developer specializing in C++ and game devel
 
 ---
 
-## 📅 Coding Activity (via Wakatime)
+<!--## 📅 Coding Activity (via Wakatime)
 
 <div align="center">
 
@@ -43,7 +43,7 @@ Hi there! I'm Kaloyan, a passionate developer specializing in C++ and game devel
 
 </div>
 
----
+----->
 
 ## 📫 Let's Connect
 
